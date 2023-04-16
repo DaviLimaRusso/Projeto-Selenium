@@ -60,5 +60,5 @@ Feature: HG2R3 - Detalhes de um produto
   Scenario: CT11 - Validar variação do produto
     Given que estou na tela com o produto escolhido
     When quando clico em uma das variações disponíveis do produto, a direita na tela, abaixo do valor
-    Then sou direcionado para tela com as informações da variação do produto
+    Then sou direcionado para tela com as informações da variação do produto.
 
