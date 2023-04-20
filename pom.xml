@@ -50,8 +50,7 @@
             <artifactId>selenium-java</artifactId>
             <version>4.8.0</version>
         </dependency>
-
-        <dependency>
+       <dependency>
             <groupId>org.junit.platform</groupId>
             <artifactId>junit-platform-suite</artifactId>
             <scope>test</scope>
